@@ -13,6 +13,7 @@ Today I Learned
 ### 190528 (TUE)
 **<checkpoint 1-2 확인>**
 - Closure 재확인 : 외부함수의 환경을 기억하는 내부함수, (기억하기 위해선 내부가 함수가 외부의 것을 참조해야만한다.)
+
 - JEST Assertion
 - underbar pair programming
   > **memoize vs once**
@@ -46,3 +47,29 @@ Today I Learned
     
     cf> ES6 문법(arrow function)을 통해, 의도치 않는 **위치** 정보를 생성시키지 않는다. 
 ---
+### 190529 (WED)
+
+- data structure : data structure를 공부하면서, 어떤 data strucutre를 설명하기 위해서 필요한 것은 아래와 같다.
+  > **3 things to specify to explain data structure
+  
+    - what does contain data structure's node field : 어떤 node가 무엇을 담고 있는지 명시할 수 있어야한다.
+    ex) graph has two types of node : vertices(=node), edge(=link, branch)
+    ...
+    
+    - Terminology : 명시된 node가 의미하는 바를 '용어'로서 명시할 수 있어야한다.
+    ex) in case of tree data structure
+    > root node : top node in tree (only one)
+    > depth :  the number of edges between the root and the node 
+    ...
+    
+    - Operation : 해당 data structure가 node를 조작하는 것을 명시할 수 있어야한다. 이러한 명시는 추상적 개념을 가지고 있고, 그림으로 간단하게 표현할 수 있다.
+    ex) in case of queue data structure, having basic two operation
+    > enqueue(node)
+    > dequeue(node)
+
+
+**<checkpoint 4 공부>**
+- Object.create() & protype 공부 : Object는 함수이며, invoke 될때, prototype의 속성(Object의 prototype)을 생성한다.
+
+    
+    
