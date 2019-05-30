@@ -71,5 +71,41 @@ Today I Learned
 **<checkpoint 4 공부>**
 - Object.create() & protype 공부 : Object는 함수이며, invoke 될때, prototype의 속성(Object의 prototype)을 생성한다.
 
+---
+### 190530 (THU)
+
+- OOP 에 대한 간략한 이해 -> 1시간 짜리 영상 시청 요망됨.
+
+- data structure Sprint 1 pair programming
+
+  > **Stack, Queue, 의 operation을 구현한다.**
+  
+    - Stack : count 하나로 storage에 push, pop을 구현할 수 있다.
+    - Queue : queue도 Linked list와 같이 rear(head), front(tail)을 가지므로, enqueue와 dequeue를 2개로 구한할 수 있다.
+    >> **각 operation에 따른 인덱스(주소, ...)의 변화 **를 그림으로 그렸다.
+      이를 위에서 말한 구체적인 정리와 같이 week 1을 정리하자.
+      
+  > Instantiation Patterns (4)의 간략한 특징만 적어보자. -> i-am-in-the-dark 에서 모든 예시 참조
     
+    - Functional instantiation
+      new, this, prototype을 이용하지 않고, 즉 method 자체를 내장시킨다.
+      
+    - Functional instantiation with shared methods
+      shared methods를 참조하여, Functional instantiation과 같은 형태로 만든다.
+      참조로 인해, 메모리 효율이 있다.
+      
+    - Prototypal instantiation
+      Object.create를 이용하여, prototype을 상속시킨다. 이는 생성자 함수를 이용하는 것이 아니다.
+      
+    - Pseudoclassical instantiation
+      생성자 함수를 이용하여, instance를 new function() 으로 invoke시킨다.
+      
+      
+**<checkpoint 5,6 공부>**
+- calculate time complexity : x회 실행했을 때, 노드의 변화되는 정도를 함수로 편하고, 이 함수의 함수를 f(x)라고 하면, 
+                              n * f(x) = 1 을 만족하는 x 값의 극한값과 같은 최소 형태를 complexity로 표현한다.
+                              추후, 각 data structure에 대한 정의(node, terminology, operation) 그리고,
+                              각 operation에 대한 complexity를 구하는 것에 대한 구체적인 정리가 필요하다.
     
+
+---
