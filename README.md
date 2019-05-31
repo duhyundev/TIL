@@ -76,7 +76,7 @@ Today I Learned
 
 - OOP 에 대한 간략한 이해 -> 1시간 짜리 영상 시청 요망됨.
 
-- data structure Sprint 1 pair programming
+- data structure Sprint 1 (part 1) pair programming
 
   > **Stack, Queue, 의 operation을 구현한다.**
   
@@ -85,7 +85,8 @@ Today I Learned
     >> **각 operation에 따른 인덱스(주소, ...)의 변화 **를 그림으로 그렸다.
       이를 위에서 말한 구체적인 정리와 같이 week 1을 정리하자.
       
-  > Instantiation Patterns (4)의 간략한 특징만 적어보자. -> i-am-in-the-dark 에서 모든 예시 참조
+  > Instantiation Pat
+terns (4)의 간략한 특징만 적어보자. -> i-am-in-the-dark 에서 모든 예시 참조
     
     - Functional instantiation
       new, this, prototype을 이용하지 않고, 즉 method 자체를 내장시킨다.
@@ -109,3 +110,17 @@ Today I Learned
     
 
 ---
+### 190531 (FRI)
+--> i cannot sleap, so just type what i da
+**<checkpoint 7,8 공부>**
+- this binding
+- callbacks
+
+- data structure Sprint 1 (part2) pair programming (skipping detail)
+  -  Linkled List
+  -  tree
+  -  Binary Search Tree
+
+- complexity
+- how to work Hash
+
