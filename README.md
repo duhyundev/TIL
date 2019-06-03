@@ -164,4 +164,34 @@ so, saturday should be more immversive than yesterday.
 and sunday should be more focused on self-assemment test.
 
 ---
+### 190603 (MON)
+**<checkpoint 9,10 study in morning and 8,9,10 review>**
+- 8) callback
+  > understanding JS Runtime Environment (V8 JS ENGINE : HEAP, STACK , Event Loop, WEB API's, Callback Queue)
+  > above this, got more unstanding setTimeout function
+  > until stack is empty, in Callback Queue, anything is not executed though time is '0'
 
+- 9) data type
+  > Understanding about dynamic type allocation in JS
+  > i think the address concept in JS is not helpful to understand reference type. just distinguish premitive type and reference type
+  > distinguish 'Assign' vs 'Define'
+  > in function scope without return, it seems that dynamic type allocation is not executed. But, having return and allocation new variable, it works. Why? i think more understanding about JS execution context.
+  
+- 10) order of execution 
+  > the order is most important for understanding invocation.
+  > when define the function, parameter > callback, i think parameter has a most piority in JS
+  > this check point, having more understanding about specific order for function invoked.
+  > it has a connection to setTimeout function, and check point 8,9
+
+- Subclass Dance Party Sprint start
+  > when function is define, what happen ? (__proto__, prototype, constructor) link the every thing about heritance(in Miro), it was helpful.
+  > pseudoclasscial style is UGLY, but should know about what happens in JS. in fact, JS is ugly.
+  > thinking about OOP (Oriented Object Programming).
+  > should use practically in ES6 Class syntax ( Class, Constructor, super, method ...)
+  > thinking about anti-pattern.
+
+- repeat Self-Assement 01 about Tree data structure
+  > i think sprint is not useful, so i need to init the sprint when i am ready....
+  > as time is empty, keep trying this until this week.(actually tommorrow's morning)
+
+---
