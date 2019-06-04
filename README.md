@@ -195,3 +195,28 @@ and sunday should be more focused on self-assemment test.
   > as time is empty, keep trying this until this week.(actually tommorrow's morning)
 
 ---
+### 190604 (TUE)
+- Toy-Problem1 repeat
+  >thinking about 2-dimensional array in JS. or is it better form in JS ? just about method?
+  >optimzied solution should be considered to solve thing. but is it necessary to me now? or just impossible to think directly ?
+
+- Git flow
+  > branch instruciton should be more trained to me by myself
+  > i do this instruction until now :
+    git status, commit
+    git push origin(?) master or brnach (branch's status) 
+    git remote add pair(name's) (remote address)
+    git pull pair origin
+    git branch 
+    git checkout -b (branch's name)
+    git clone (remote's address)
+
+- Dance Party Sprint complete
+  > it is clear that heritance is essential for re-use the statement. ironically, prototype is ugly in JS, but it is thing for not to be confused.
+  > 2D animation or in web browser's animation is fun for presentng something to use simple concept of mathmatics form or equations. that is should be considered to know about exactly asychromized callback. (Event handler loop, callback queue... Web api is most important to front layer.
+  > CSS needs for me just to do it something. this process is stacked in my experience, something not clear.
+
+- Student's experience
+  > not big change is happend to me. just thinking more about me. this place's people is attractive to me so much. but i don't know about something discomfort.
+
+---
