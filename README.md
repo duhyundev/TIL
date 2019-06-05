@@ -220,3 +220,19 @@ and sunday should be more focused on self-assemment test.
   > not big change is happend to me. just thinking more about me. this place's people is attractive to me so much. but i don't know about something discomfort.
 
 ---
+### 190605 (WED)
+- Toy-Problem1 repeat + Toy-Problem2 oK
+  > more trying refactoring using recursion or functional programming
+  > recursion debugging is so hard to get a timing or return execution
+
+- Git flow 
+  > branch control : to make a branch, make sure where am i, and location i wanted to make the branch.
+  > git stash
+
+- N-Queens Sprint 1
+  > i think N-Queens has a huge extension of case. it is hard to get form or pattern. so i decide to give a job to computer by some restriction.
+  > as i expected, image is powerful to imaginate.
+  > time complexity is considered. but i want to know about space complexity.
+  > Tree decision is big issue.
+  > thinking(navigating) and driving is seperated. in JS, driving ability is so important to me now. more like JS. but JS is ugly yet.
+
