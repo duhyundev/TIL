@@ -236,3 +236,16 @@ and sunday should be more focused on self-assemment test.
   > Tree decision is big issue.
   > thinking(navigating) and driving is seperated. in JS, driving ability is so important to me now. more like JS. but JS is ugly yet.
 
+### 190606 (THU)
+- today is holiday
+
+- N-Queens Sprint 1 
+  > data format for board and chess rook
+  > at least, one exact solution for n = 3,4,5
+  > should refactory the soultion for general n
+
+- Git flow
+  > git reset HEAD~1
+  > should know more branch master forked repository ...
+
+——-
