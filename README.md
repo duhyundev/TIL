@@ -236,6 +236,7 @@ and sunday should be more focused on self-assemment test.
   > Tree decision is big issue.
   > thinking(navigating) and driving is seperated. in JS, driving ability is so important to me now. more like JS. but JS is ugly yet.
 
+---
 ### 190606 (THU)
 - today is holiday
 
@@ -248,4 +249,22 @@ and sunday should be more focused on self-assemment test.
   > git reset HEAD~1
   > should know more branch master forked repository ...
 
-——-
+---
+### 190607 (FRI)
+- N-Queens Sprint 2
+  > thinking about recursive algorithm
+  > driving ability up!
+  > should think how to reduce time to solve the problem
+  > should refactory about i coded for productivity in readability or complexity
+
+- Student's experience
+  > thinking about software fields
+  > thinking about all things what i can do from this course.
+
+- Circle
+  > in local environment, execution time is different from in vitual environment
+  > check what is Circle, why do this need for me?
+  > automatived test should be considered in every coding. it takes more times than i didn't consider. but it is more productive considering future i think now.
+  > what kinds of Assertion or Automated test library ??? should list or should summary this after.( after,, after,, is bad.,,,,,)
+
+---
