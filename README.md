@@ -268,3 +268,18 @@ and sunday should be more focused on self-assemment test.
   > what kinds of Assertion or Automated test library ??? should list or should summary this after.( after,, after,, is bad.,,,,,)
 
 ---
+### 190608 (SAT)
+- N-Queens Sprint review
+  > nothing helps me this session
+
+- Chatterbox-Client
+  > understanding the concept of client and server system
+  > search in Web service concept
+  > http, API, AJAX, browser... understanding the web arithecture
+  > install postman 
+
+- Toy-problem 4 : nthFibonacci alorithm without recursion
+  > To determine the value of nthFibonacci, should know the value of n-1, n-2th Fibonacci value. It can handle with a temp array data type.
+  > temp array should update fixed size of data. DO NOT stack this array ! i think it is so horrible as the memory is not efficieny. (i use the shift, push for maintaining 2 elements of temp array.
+
+---
