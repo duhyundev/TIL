@@ -283,3 +283,17 @@ and sunday should be more focused on self-assemment test.
   > temp array should update fixed size of data. DO NOT stack this array ! i think it is so horrible as the memory is not efficieny. (i use the shift, push for maintaining 2 elements of temp array.
 
 ---
+### 190609 (SUN)
+- SUNDAY is be need to be rest on home. but... we need to prepare assements or other something.
+- student experience preparation
+
+- Terminal config
+  > understanding concept of Shell
+  > .bash_profile vs .bashrc
+  > be curious about OS, process unit ...
+  > be going to search about bash shell
+  > git-prompt custom theme adjustify by vim in terminal
+
+- article
+  > countering the Negative image of Women in computing
+  > keep going to read this article
