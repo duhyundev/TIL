@@ -297,3 +297,31 @@ and sunday should be more focused on self-assemment test.
 - article
   > countering the Negative image of Women in computing
   > keep going to read this article
+
+---
+### 190610 (MON)
+- Toy-problem 5 : bubble-sort althorithm
+  > should consider time-complexity
+  > search for other althorithm
+
+- self-assessment-01 repeat : recursive mapped tree generator
+
+- Chatterbox-Client
+  > event-listener with keyup
+  > dealing select element
+  > understanding concept of AJAX
+  > Fetch-API : GET/POST method & response, should look at API.
+  > what is XSS ? , thinking about security of client side or server side
+  > 3 type of requests should be defined by myself
+  > script or eval or IIFE execution by parsing to HTML. so we have to check before parsing
+  > in process of GET from server, we can detect some danger by using reg-expression test in data
+  > more thinking about security concept and browser's process, and protocol
+
+- preparation self-assessment-02
+  > pseudoclassical heritance
+  > ES6 syntax (spread operator, class constructor(super, ...), destructing, ... . should be more normal things to me. 
+  > n-queens recursion(tree decision model, back-tracking)
+  > concept of server, client.
+  > should be conceptual thinking in my head this issues
+
+---
