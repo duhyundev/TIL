@@ -325,3 +325,24 @@ and sunday should be more focused on self-assemment test.
   > should be conceptual thinking in my head this issues
 
 ---
+### 190611 (TUE)
+- Self-assessment-02 : repeat all things last week.
+  > Dance Party (Class, pseudoclassical, Prototype language JavaScript)
+  > N-Queens (calculate the time complexity, how ? implement process ? )
+  > chatterbox-Client (client side have to do dealing the dom and CSS and ...) 
+
+- React Solo Sprint
+  > understanding the concept of React
+  > should be more focused on practical performance than principle of deep JS.
+  > summary blog what i understand and think
+  > curious about things below
+    : redux, Babel, deep ES6, building the react, framework, vue, Angular, ...
+
+- Sprint review Chatterbox-client
+  > remind of client and server concept
+  > Fetch API
+
+---
+
+
+
