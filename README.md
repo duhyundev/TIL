@@ -343,6 +343,17 @@ and sunday should be more focused on self-assemment test.
   > Fetch API
 
 ---
+## 190612 (WED)
+- Toy-Problem 06 : CommonCharcter
+  > trying to be functional script
 
+- React recast.ly Sprint
+  > understanding react power
+  > understanding react's process (props, states, lifecycle)
+  > know how to use API (specific Youtube API 3)
+  > should focus on how react works
+  > should think about design state in react of UI Logic
 
+- prepartion of Student experience
 
+---
