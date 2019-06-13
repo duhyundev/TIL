@@ -343,7 +343,7 @@ and sunday should be more focused on self-assemment test.
   > Fetch API
 
 ---
-## 190612 (WED)
+### 190612 (WED)
 - Toy-Problem 06 : CommonCharcter
   > trying to be functional script
 
@@ -355,5 +355,20 @@ and sunday should be more focused on self-assemment test.
   > should think about design state in react of UI Logic
 
 - prepartion of Student experience
+
+---
+### 190613 (THU)
+- Toy-Problem 07 : treeDFSelect
+  > should be consider the recursion concept
+  > Do not new function in method or function to implement
+
+- React recast.ly Sprint
+  > understanding asynchronous programming
+  > synthetic event should be considered to think about memory
+  > react offer persist, but it is not useful in this case
+  > call API + callback is important to asynchronous call
+  > throttle and debounce concept should be more required to practical performance than understanding the cocept or idea
+  > react Hook
+  > bootstrap + flex + .. classname controls width %
 
 ---
