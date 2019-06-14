@@ -289,7 +289,7 @@ and sunday should be more focused on self-assemment test.
 
 - Terminal config
   > understanding concept of Shell
-  > .bash_profile vs .bashrc
+  > .bash-profile vs .bashrc
   > be curious about OS, process unit ...
   > be going to search about bash shell
   > git-prompt custom theme adjustify by vim in terminal
@@ -370,5 +370,27 @@ and sunday should be more focused on self-assemment test.
   > throttle and debounce concept should be more required to practical performance than understanding the cocept or idea
   > react Hook
   > bootstrap + flex + .. classname controls width %
+
+---
+### 196014 (FRI)
+- Toy-Problem 08 : largestProductOfThree
+  > should be consider for negative sign
+  > thinking about multiple variable in for loop
+
+- React rescast.ly Sprint
+  > Sprint is done
+  > reminding of debounced 
+  > reminding of react component, states, lifecyle
+  > this binding is issue of JavaScript
+  > iframe tag should be check
+
+- Check-point 11
+  > react is JavaScript Library
+  > JSX is powerful
+  > props is read-only things and can specify name
+  > state has feature of lifting state up & class component
+  > should know exactly Life Cycle API
+  > comparison of functional and class component
+  > put the image of Life Cycle diagram in my head
 
 ---
