@@ -21,16 +21,15 @@ Today I Learned
     - once : *(parameter를 필요로 하지 않는)* 함수가 한번 실행되면, 실행 여부와 실행된 결과를 **기억**하고, 
       실행 여부에 따라 실행되었던 결과를 바로 출력
     - memoize : *(parameter를 필요로 하고)* 각 parameter set에 대한 결과를 **기억**하고, 기억된 parameter에 대해서는 그 결과를 바로 출력
-    
+  
     cf> parameter set의 기억되는 형태는 아래와 같다. 각 parameter를 기억하기 위해, JSON형태로 object의 property로 기억한다.
-     
+  
       set = {
               JSON.stringify_1 : result_1 ,
               JSON.stringify_2 : result_2 ,
               ...
             };
-          
-
+  
 - recursion pair programming
 - ES 6 : ...argument ,arrow function
 - execution context
@@ -44,7 +43,7 @@ Today I Learned
     - functional method, call/apply : this를 내가 원하는 것으로 manual하게 지정할 수 있다.
     - constructor mode : prototype을 생성할 때, 선언된 this를, contructor mode를 통해, instance로 지정할 수 있다.
     - method invocation : method가 호출될 때, method의 상위 객체로 this가 지정된다.
-    
+  
     cf> ES6 문법(arrow function)을 통해, 의도치 않는 **위치** 정보를 생성시키지 않는다. 
 ---
 ### 190529 (WED)
@@ -53,17 +52,17 @@ Today I Learned
   > **3 things to specify to explain data structure
   
     - what does contain data structure's node field : 어떤 node가 무엇을 담고 있는지 명시할 수 있어야한다.
-    ex) graph has two types of node : vertices(=node), edge(=link, branch)
-    ...
+      ex) graph has two types of node : vertices(=node), edge(=link, branch)
+      ...
     
     - Terminology : 명시된 node가 의미하는 바를 '용어'로서 명시할 수 있어야한다.
-    ex) in case of tree data structure
+      ex) in case of tree data structure
     > root node : top node in tree (only one)
     > depth :  the number of edges between the root and the node 
     ...
-    
+  
     - Operation : 해당 data structure가 node를 조작하는 것을 명시할 수 있어야한다. 이러한 명시는 추상적 개념을 가지고 있고, 그림으로 간단하게 표현할 수 있다.
-    ex) in case of queue data structure, having basic two operation
+      ex) in case of queue data structure, having basic two operation
     > enqueue(node)
     > dequeue(node)
 
@@ -84,10 +83,10 @@ Today I Learned
     - Queue : queue도 Linked list와 같이 rear(head), front(tail)을 가지므로, enqueue와 dequeue를 2개로 구한할 수 있다.
     >> **각 operation에 따른 인덱스(주소, ...)의 변화 **를 그림으로 그렸다.
       이를 위에서 말한 구체적인 정리와 같이 week 1을 정리하자.
-      
+  
   > Instantiation Pat
 terns (4)의 간략한 특징만 적어보자. -> i-am-in-the-dark 에서 모든 예시 참조
-    
+  
     - Functional instantiation
       new, this, prototype을 이용하지 않고, 즉 method 자체를 내장시킨다.
       
@@ -97,17 +96,17 @@ terns (4)의 간략한 특징만 적어보자. -> i-am-in-the-dark 에서 모든
       
     - Prototypal instantiation
       Object.create를 이용하여, prototype을 상속시킨다. 이는 생성자 함수를 이용하는 것이 아니다.
-        
+      
     - Pseudoclassical instantiation
       생성자 함수를 이용하여, instance를 new function() 으로 invoke시킨다.
       
       
+
 **<checkpoint 5,6 공부>**
 - calculate time complexity : x회 실행했을 때, 노드의 변화되는 정도를 함수로 편하고, 이 함수의 함수를 f(x)라고 하면, 
                               n * f(x) = 1 을 만족하는 x 값의 극한값과 같은 최소 형태를 complexity로 표현한다.
                               추후, 각 data structure에 대한 정의(node, terminology, operation) 그리고,
                               각 operation에 대한 complexity를 구하는 것에 대한 구체적인 정리가 필요하다.
-    
 
 ---
 ### 190531 (FRI)
@@ -217,6 +216,7 @@ and sunday should be more focused on self-assemment test.
   > CSS needs for me just to do it something. this process is stacked in my experience, something not clear.
 
 - Student's experience
+  
   > not big change is happend to me. just thinking more about me. this place's people is attractive to me so much. but i don't know about something discomfort.
 
 ---
@@ -270,8 +270,9 @@ and sunday should be more focused on self-assemment test.
 ---
 ### 190608 (SAT)
 - N-Queens Sprint review
-  > nothing helps me this session
-
+  
+> nothing helps me this session
+  
 - Chatterbox-Client
   > understanding the concept of client and server system
   > search in Web service concept
@@ -345,8 +346,9 @@ and sunday should be more focused on self-assemment test.
 ---
 ### 190612 (WED)
 - Toy-Problem 06 : CommonCharcter
-  > trying to be functional script
-
+  
+> trying to be functional script
+  
 - React recast.ly Sprint
   > understanding react power
   > understanding react's process (props, states, lifecycle)
@@ -394,3 +396,26 @@ and sunday should be more focused on self-assemment test.
   > put the image of Life Cycle diagram in my head
 
 ---
+
+### 190615 (SAT)
+- Toy-Problem 09 : deepEquality
+  > thinking about dynamic type
+  > more practical to deal object's key, property
+  > is there any other way to get property except of for-of and Object.keys() ?
+
+- Markup Down Language
+  > what is UML ??
+  > typora is wonderful to TIL or WIKI
+  > management record in typora
+  > sequence, flowchart.js, ..
+  > what is Railroad Diagram
+  > mermaid ?? 
+  > should be optimized to write down things in vi
+
+- Solo Sprint todolist
+  > should be more practical performance in react
+  > CSS , bootstrap , ... animation or UI logic should be more considered to me
+  > react design props, state with sequence diagram
+
+---
+
