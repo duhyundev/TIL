@@ -419,3 +419,18 @@ and sunday should be more focused on self-assemment test.
 
 ---
 
+### 190616 (SUN)
+- SUNDAY is holiday.. but!
+- Solo Sprint todolist
+  > grid class is powerful
+  > display flex should be check again
+  > basic understanding of react process
+  > UX with golden ratio(Fibo's characteristic polynominal solution)
+  > color combination should be considered
+  > lodash check
+
+- Notion issue check
+  > management of everything with Notion, typora(TIL) ...
+  > should be reconstruct the management process
+
+---

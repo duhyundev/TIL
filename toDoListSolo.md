@@ -2,6 +2,10 @@
 
 
 
+### Date
+
+190615(SAT) ~ 190617(MON)
+
 ### Objective
 
 - React Process에 대해서 최대한 이해하고, anti-pattern은 지양이 아니라, 금한다.
@@ -21,20 +25,30 @@ participant Search
 participant Sidebar
 participant App
 participant ToDoList
-
 participant ToDoListEntry
 
-App -> Sidebar : props :{things, f2}  
-Sidebar -> Search : props :{things, f2}
-NOTE over Search : Event 2 (click)
-Search --> App : \n
+NOTE over App : local State
+App -> Sidebar : things, \n currentGroup, \n f_setCurrentGroup
 
-App -> ToDoList : props:{things, f1} 
-ToDoList -> ToDoListEntry : props:{thing, f1}
+NOTE over Sidebar : Event 2 (click) \n f_setCurrentGroup
+Sidebar --> App : currentGroup
+
+NOTE over Sidebar : Event 6 (click) \n ????
+Sidebar --> App : ????
+
+
+Sidebar -> Search : f_setCurrentGroup
+NOTE over Search : Event 3 (click)
+Search --> App : currentGroup
+App -> ToDoList : things,\n currentGroup,\n isNew,\n f_makeThing,\n f_updateIsNew
+NOTE over ToDoList : Event 4 (click)\n onClickToRenderNew
+ToDoList --> App : isNew
+NOTE over ToDoList : Event 5 (keyup)\n onKeyUpToMakeThing
+ToDoList --> App : isNew,\n things 
+
+ToDoList -> ToDoListEntry : thing,\n f_updateThings
 NOTE over ToDoListEntry : Event 1 (click)
-
-ToDoListEntry --> App : \n
-
+ToDoListEntry --> App : things
 
 ```
 
