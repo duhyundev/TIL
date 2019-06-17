@@ -434,3 +434,10 @@ and sunday should be more focused on self-assemment test.
   > should be reconstruct the management process
 
 ---
+
+### 190617 (MON)
+- Today, iamSick
+- Solo Sprint react todolist
+  > css manipulation
+  > ui logic should be more improved
+
