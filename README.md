@@ -441,3 +441,20 @@ and sunday should be more focused on self-assemment test.
   > css manipulation
   > ui logic should be more improved
 
+### 190618 (TUE)
+- Self-Assessment 03 - React
+  > variable & test-case is important
+  > thinking about hireAssessment to pass
+
+- Solo-Sprint Server and Node
+  > V8, Event loop, JavaScript Runtime , ... 
+  > javaScript is single thread 
+  > Do not stop things browser do
+  > Concurrency & Event Loop
+  > Node : v8 Engine javaScript runtime
+  > V8 complies javaScript directly to native machine code
+  > what is exactly meaning of runtime ?
+  > non-blocking/blocking I/O modeling
+  > Async Callback & The Call Stack
+  > import vs module difference ? 
+
