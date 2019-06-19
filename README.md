@@ -458,3 +458,29 @@ and sunday should be more focused on self-assemment test.
   > Async Callback & The Call Stack
   > import vs module difference ? 
 
+### 190619 (WED)
+- Toy-Problem 11 : rotatedArraySearch
+  > thinking about rotate ? 
+  > double check - calculate time complexity
+  > what is exactly this problem's solution
+
+- Solo-Spint chatter-box Server
+  > http.createServer 
+  > please read Roy T.Fielding's paper
+  > understanding what is RESTful API
+  > web socket, socket.IO, ts ... file IO...
+
+- checkpoint 12 - Server and Node
+  > thinking about module, requre, exports
+  > i can explain exports vs module.exports
+  > i can breif what happen when require invocation 
+    1) src load
+    2) fileAsStr <- src
+    3) make hash(object) named module.exports
+    4) eval(fileAsStr)
+    5) return hash
+  > i don't understanding what exactly happen when require invocation
+  > call stack , event loop, webApi
+  > asynchronous call is important for web environment in now
+
+
