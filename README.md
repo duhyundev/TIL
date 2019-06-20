@@ -464,7 +464,7 @@ and sunday should be more focused on self-assemment test.
   > double check - calculate time complexity
   > what is exactly this problem's solution
 
-- Solo-Spint chatter-box Server
+- Solo-Sprint chatter-box Server
   > http.createServer 
   > please read Roy T.Fielding's paper
   > understanding what is RESTful API
@@ -482,5 +482,33 @@ and sunday should be more focused on self-assemment test.
   > i don't understanding what exactly happen when require invocation
   > call stack , event loop, webApi
   > asynchronous call is important for web environment in now
+
+### 190620 (THU)
+- Toy-Problem 12 : PowerSet
+  > Power is related to series, combination
+  > no more focus on mathematical meaning for althorithm or some code, JUST Implete effectively
+  > recursion should be handled by natural like 99dan
+
+- Solo-Sprint chatter-box Server
+  > express is framework, ('require' is so important, we don't know what happen in Javascript inside. should know that)
+  > socket io concept and implement
+  > can explain Ajax polling, long polling, streaming ... web socket, socket IO
+  > fs should be handled tomorrow
+  > header is important
+  > server should response any request from client
+  > restful api doc ... should study
+
+- checkpoint 12 - Server and Node review
+  > require function has 5 steps
+    1) cache ? go to step 6 : go to step 2
+    2) load src
+    3) fileAsStr = readFile(src)
+    4) make hash ( module.exports )
+    5) eval(fileAsStr)
+    6) return module.exports
+  > check callstack, web api, eventqueue(with event handler)
+
+---
+
 
 
