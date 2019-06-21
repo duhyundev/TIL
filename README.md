@@ -441,6 +441,7 @@ and sunday should be more focused on self-assemment test.
   > css manipulation
   > ui logic should be more improved
 
+---
 ### 190618 (TUE)
 - Self-Assessment 03 - React
   > variable & test-case is important
@@ -458,6 +459,7 @@ and sunday should be more focused on self-assemment test.
   > Async Callback & The Call Stack
   > import vs module difference ? 
 
+---
 ### 190619 (WED)
 - Toy-Problem 11 : rotatedArraySearch
   > thinking about rotate ? 
@@ -483,6 +485,7 @@ and sunday should be more focused on self-assemment test.
   > call stack , event loop, webApi
   > asynchronous call is important for web environment in now
 
+---
 ### 190620 (THU)
 - Toy-Problem 12 : PowerSet
   > Power is related to series, combination
@@ -509,6 +512,16 @@ and sunday should be more focused on self-assemment test.
   > check callstack, web api, eventqueue(with event handler)
 
 ---
+### 190621 (FRI)
+- Toy-Problem 13 : BFSTreeSearch
+  > should be more practice recursion
 
+- Solo-Sprint Promises
+  > callback is a way to handle async
+  > promise is object represents the eventual completion of an asynchronous operation
+  > promise has 3 states of pending, fullfilled and rejected
+  > promise chaining should more practice
+  > async function, await are powerful but, now i should focus on promise and .... 
+  > regular expression is not string('/,/g'), is expression(/,/g) 
 
-
+---
