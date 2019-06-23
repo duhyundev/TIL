@@ -525,3 +525,19 @@ and sunday should be more focused on self-assemment test.
   > regular expression is not string('/,/g'), is expression(/,/g) 
 
 ---
+### 190622 (SAT) YIL
+- Toy-Problem 14 : composer, pipe
+  > function parameter, bind should be more practical in JS
+
+- Sprint Article Collector
+  > look around what happen in server, client doing
+  > fs module
+  > url request ( html String)
+  > typora flow.js
+
+- im12 Demo-Day
+  > i know what process in demo-day
+  > look around each team's direction
+
+---
+
