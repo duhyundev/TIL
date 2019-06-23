@@ -76,3 +76,25 @@ NOTE over Server, Client : 하하하하하하하하 \n ㄴㅇㄴㄹㅁㄴㄹㅁ�
 
 ## Reference
 
+
+
+#Article Collector
+
+- [ ] Sprint의 구조를 파악해본다.
+- [ ] Pair-progrmming을 진행해본다
+- [ ] test를 통과시켜본다.
+
+
+
+## Sprint
+
+~~~flow
+```flow
+st=>start: Start
+op=>operation: fetch helper function
+op1=>operation: source.js
+e=>end: end
+
+st->op->op1->
+```
+~~~
