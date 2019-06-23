@@ -540,4 +540,17 @@ and sunday should be more focused on self-assemment test.
   > look around each team's direction
 
 ---
+### 190623 (SUN)
+- HA preparation
+  > sprint review
+  > checkpoint review
+  > self-assessment review
+  > toy-problem review
+  > should prepare this 4 kinds of things
 
+- Sprint Article Collector
+  > should be specify process of request and response
+  > async await are powerful
+
+---
+ 
