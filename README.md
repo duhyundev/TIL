@@ -553,4 +553,18 @@ and sunday should be more focused on self-assemment test.
   > async await are powerful
 
 ---
- 
+### 190624 (MON)
+- Toy-Promblem 15 : binarySearch
+  > should be more practical recursive form
+  > handling array is not excellent now
+
+- SQL introdcution
+  > basic Querry Statement
+  > Select, from, where, join, ...
+
+- Sprint Databases
+  > how to work databases
+  > concept of MVC pattern
+  > should do testing the app
+
+---   
