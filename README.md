@@ -554,7 +554,7 @@ and sunday should be more focused on self-assemment test.
 
 ---
 ### 190624 (MON)
-- Toy-Promblem 15 : binarySearch
+- Toy-Problem 15 : binarySearch
   > should be more practical recursive form
   > handling array is not excellent now
 
@@ -567,4 +567,16 @@ and sunday should be more focused on self-assemment test.
   > concept of MVC pattern
   > should do testing the app
 
----   
+---
+### 190625 (TUE)
+- Toy-Problem 16 : Range
+  > review instance form
+  > practice OOP
+
+- Sprint Databases
+  > MYSQL version is ugly
+  > understanding router, model, db
+  > Query statement
+  > ORM should be more handled
+
+---  
