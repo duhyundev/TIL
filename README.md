@@ -579,4 +579,18 @@ and sunday should be more focused on self-assemment test.
   > Query statement
   > ORM should be more handled
 
----  
+---
+### 190626 (WED)
+- Self-Assessment 04 - async await, server, sql
+  > async await should be more practical, and should know exactly how to work
+  > schema design (concern on 1:N or N:N)
+
+- Sprint Shortly express
+  > how to read structure of full-stack development App
+  > ORM - sequelize
+  > concept of MVC model
+  > browser work and authentication (Cookie, Session, encrytion: hasing, salt)
+
+---
+ 
+  
