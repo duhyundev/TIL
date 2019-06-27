@@ -272,7 +272,7 @@ and sunday should be more focused on self-assemment test.
 - N-Queens Sprint review
   
 > nothing helps me this session
-  
+
 - Chatterbox-Client
   > understanding the concept of client and server system
   > search in Web service concept
@@ -348,7 +348,7 @@ and sunday should be more focused on self-assemment test.
 - Toy-Problem 06 : CommonCharcter
   
 > trying to be functional script
-  
+
 - React recast.ly Sprint
   > understanding react power
   > understanding react's process (props, states, lifecycle)
@@ -514,8 +514,9 @@ and sunday should be more focused on self-assemment test.
 ---
 ### 190621 (FRI)
 - Toy-Problem 13 : BFSTreeSearch
-  > should be more practice recursion
-
+  
+> should be more practice recursion
+  
 - Solo-Sprint Promises
   > callback is a way to handle async
   > promise is object represents the eventual completion of an asynchronous operation
@@ -527,8 +528,9 @@ and sunday should be more focused on self-assemment test.
 ---
 ### 190622 (SAT) YIL
 - Toy-Problem 14 : composer, pipe
-  > function parameter, bind should be more practical in JS
-
+  
+> function parameter, bind should be more practical in JS
+  
 - Sprint Article Collector
   > look around what happen in server, client doing
   > fs module
@@ -592,5 +594,15 @@ and sunday should be more focused on self-assemment test.
   > browser work and authentication (Cookie, Session, encrytion: hasing, salt)
 
 ---
- 
-  
+### 190627 (THU)
+
+- Toy-Problem 17 : balancedParens
+  > Regular expression practice
+  > should make pattern for any purpose
+
+- Sprint Shortly express
+  > learn how to generate sequelize hooks, query statement
+  > learn session controls
+  > should make cheat-sheet for this project (front-end/back-end/DB/middleWare)
+
+---
