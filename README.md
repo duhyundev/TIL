@@ -595,7 +595,6 @@ and sunday should be more focused on self-assemment test.
 
 ---
 ### 190627 (THU)
-
 - Toy-Problem 17 : balancedParens
   > Regular expression practice
   > should make pattern for any purpose
@@ -604,5 +603,27 @@ and sunday should be more focused on self-assemment test.
   > learn how to generate sequelize hooks, query statement
   > learn session controls
   > should make cheat-sheet for this project (front-end/back-end/DB/middleWare)
+
+---
+### 190628 (FRI)
+- Toy-Problem 18 : AsyncMap
+  > callback, promise, async need to understand more
+  > consoling is difficult with async process
+
+- Sprint deployment and Build
+  > learn the things to know when deployment will do
+  > understand AWS concept 
+  > EC2, S3, RDS 
+  > learn how to use AWS practicaly
+
+- 1:1 check in
+  > thinking about position
+  > thinking about sprint meaning
+  > thinking about project meaning
+
+- prep 2 weeks project’s idea
+  > consider the period of project
+  > thinking about fortfolio
+  > can say what i will do exactly
 
 ---
