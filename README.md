@@ -627,3 +627,16 @@ and sunday should be more focused on self-assemment test.
   > can say what i will do exactly
 
 ---
+### 190629 (SAT)
+- Toy-Problem 19 : longestRun
+  > more practice handling object manipulation
+  > should consider time complexity
+
+- 2 weeks project’s idea sharing
+  > i don’t know what i want to participate in
+  > just focus on what i did in 5 weeks
+
+- Hiring Assessment prep
+  > complete making form of review
+  > ckeck point is done
+  > should have not holiday like other weeks
