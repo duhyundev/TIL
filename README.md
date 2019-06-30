@@ -640,3 +640,12 @@ and sunday should be more focused on self-assemment test.
   > complete making form of review
   > ckeck point is done
   > should have not holiday like other weeks
+
+---
+### 190630 (SUN)
+- prep Hiring Assessment
+  > checkpoint repeat
+  > self-assessment repeat
+
+---
+
