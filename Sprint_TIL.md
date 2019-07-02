@@ -660,6 +660,8 @@ and sunday should be more focused on self-assemment test.
   > sleep 20 hours in this day
   > sleep is important for uncoming project
 
+- contributions should be continous
+
 ---
 ### 190703 (WED)
 - Redux Solo Sprint
