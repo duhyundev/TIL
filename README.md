@@ -648,4 +648,26 @@ and sunday should be more focused on self-assemment test.
   > self-assessment repeat
 
 ---
+### 190701 (MON) (YYIL)
+- Hiring Assessment D-DAY
+
+---
+### 190702 (TUE) (YIL)
+- Holiday
+  > sleep 20 hours in this day
+  > sleep is important for uncoming project
+
+---
+### 190703 (WED)
+- Redux Solo Sprint
+  > Redux concept is from flux
+  > flux pattern , mvc pattern should distingush each other
+  > react-redux library should be practical
+  > redux official site is important like other things
+
+- Immersive Course review
+  > objective is finishing until this week
+  > this is preparation for next project for my fortfolio
+
+---
 
