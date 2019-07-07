@@ -670,4 +670,12 @@ and sunday should be more focused on self-assemment test.
   > this is preparation for next project for my fortfolio
 
 ---
+### 190704 (THU)
+- Redux Solo Sprint
+  > basic chaining using redux-react
+  > bare minimum complete
+
+- Immersive Course review
+  > format is done
+  > should planning how to complete with project
 
