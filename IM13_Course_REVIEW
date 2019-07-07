@@ -34,7 +34,7 @@
 
 - [ ] Should define exactly what is the closure.
 
-- [ ] Should think about scripting technique using closure (e.g [currying][currying])
+- [ ] Should think about scripting technique using closure. (e.g [currying][currying])
 
  In my words, Closure is the internal function refers to external function's varbles. Largely, I think closure has exeuction context of internal function. Closure is main point of javaScript language like scope. I am not sure, closure concept is the only feature of javaScript language. 
 
@@ -44,8 +44,8 @@
 
 ### CheckPoint 03 : Keyword 'this'
 
-- [ ] Should explain what is the meaning of keyword 'this'
-- [ ] Should explain 5 patterns of 'this' binding
+- [ ] Should explain what is the meaning of keyword 'this'.
+- [ ] Should explain 5 patterns of 'this' binding.
 
 'this' is an object that the invoked function points to when executing. Not depend on where the function in which it is defined. Let's explain 5 patterns of 'this' binding with some codes.
 
@@ -76,10 +76,10 @@ foo.method();
 
 ### CheckPoint 04 : JS Prototypes
 
-- [ ] Should explain javaScript is prototype language
-- [ ] Should explain prototype meaning and difference of class
-- [ ] Should know how to use object.create()
-- [ ] Should know how to use new operator
+- [ ] Should explain javaScript is prototype language.
+- [ ] Should explain prototype meaning and difference of class.
+- [ ] Should know how to use object.create().
+- [ ] Should know how to use new operator.
 
 
 
@@ -87,7 +87,7 @@ foo.method();
 
 - [ ] Should explain meaning of time complexity.
 - [ ] Should calculate time complexity of data structures and algorithm.
-- [ ] Should distinguish the worst case and average case
+- [ ] Should distinguish the worst case and average case.
 
 | data Structure     |                      |                      |                      |                      |
 | :----------------- | :------------------: | :------------------: | :------------------: | :------------------: |
@@ -100,12 +100,10 @@ foo.method();
 | Binary Seach Tree  | $${\theta(log(n))}$$ | $${\theta(log(n))}$$ | $${\theta(log(n))}$$ | $${\theta(log(n))}$$ |
 |                    |                      |                      |                      |                      |
 
+Advanced
 
-
-Extra 
-
-- [ ] Should explain meaning of space complexity
-- [ ] Should calculate space complexity 
+- [ ] Should explain meaning of space complexity.
+- [ ] Should calculate space complexity .
 
 
 
@@ -163,6 +161,27 @@ Extra
 ### Sprint 02 : Data Structures & OOP
 
 ### Sprint 03 : Inheritance Patterns
+
+- [ ] Should explain the concept of Polymorphism and Inheritance in OOP.
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+
+
+Obtain Skill
+
+- [ ] Try abstracting various models in real world into the object.
+- [ ] Display the object model using view (e.g HTML, CSS)
+
+Extra 
+
+- [ ] 
+- [ ] Attribute and effect in CSS
+- [ ] 
+
+
 
 ### Sprint 04 : Algorithms
 
