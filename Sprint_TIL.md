@@ -1,5 +1,8 @@
 # TIL
 Today I Learned
+
+# SHOULD REDEFINE OF THIS .md
+
 ---
 ### 190527 (MON)
 - Understanding git remote & pull
