@@ -10,4 +10,7 @@
 - [-] socket i/o 공부
 - [x] api 문서 만들기
 
+## 190710 (WED)
+- [-] sequlize setting
+- [x] 엔지니어 check-in 
  
