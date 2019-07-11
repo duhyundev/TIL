@@ -13,4 +13,8 @@
 ## 190710 (WED)
 - [-] sequlize setting
 - [x] 엔지니어 check-in 
- 
+
+## 190711 (THU)
+- [x] sequilize migrate, seed set
+- [-] api intergate
+- [x] mysql setting

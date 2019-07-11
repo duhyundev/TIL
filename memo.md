@@ -2,3 +2,5 @@
 - [ ] Software licence에 대해서 생각해보기 ex) MIT ...
 - [ ] single Tread vs multi Tread 에 대해서 생각해보기
 - [ ] programing paradaim에 대해서 생각해보기
+- [ ] https://en.wikipedia.org/wiki/Sorting_algorithm
+
