@@ -13,5 +13,12 @@
 
 - WIKI : MAKE A LIBRARY !
 
-should redefined this
- 
+
+"better-comments.tags" = [
+  {
+    "tag": "objective",
+    "color": "#2EECA8",
+    "strikethrough": false,
+    "backgroundColor": "transparent"
+  }
+]

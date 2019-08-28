@@ -22,9 +22,9 @@
 
 ### CheckPoint 01 : Scope
 
-- [ ] Should distinguish the variable's name and parameter name.
+- [x] Should distinguish the variable's name and parameter name.
 
-- [ ] Should distinguish the variable's name in each scope.
+- [x] Should distinguish the variable's name in each scope.
 
  I am not sure, it means that JavaScript has lexical scope. I purse this conceptual things should be verified by [You Don't Know JS][You Don't Know JS Github] or other reference.
 
@@ -44,8 +44,8 @@
 
 ### CheckPoint 03 : Keyword 'this'
 
-- [ ] Should explain what is the meaning of keyword 'this'.
-- [ ] Should explain 5 patterns of 'this' binding.
+- [x] Should explain what is the meaning of keyword 'this'.
+- [x] Should explain 5 patterns of 'this' binding.
 
 'this' is an object that the invoked function points to when executing. Not depend on where the function in which it is defined. Let's explain 5 patterns of 'this' binding with some codes.
 

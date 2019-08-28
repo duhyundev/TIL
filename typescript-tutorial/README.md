@@ -1,1 +1,5 @@
-http://www.typescriptlang.org/docs/handbook/basic-types.html
+/\*\*
+
+- - This tutorial is based on handbook of typescript official site.
+- ? reference : `http://www.typescriptlang.org/`
+  \*/
