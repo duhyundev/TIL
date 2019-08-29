@@ -2,7 +2,8 @@
  ! Hooks are a new addition in React 16.8. 
  ? They let you use state and other React features without `writing a class`.
 
-   objective : react hooks 사용 및 HoC 개념 이용. (reference : reactjs.org/docs/hooks-intro.html)
+   objective : react hooks 사용 ////및 HoC 개념 이용.// 
+   ? (reference : reactjs.org/docs/hooks-intro.html)
 
    ? introduction hooks : https://youtu.be/dpw9EHDh2bM
 */
@@ -10,6 +11,7 @@ import React, { useState, useEffect } from 'react';
 
 function App() {
   // * useState는 hooks이다. useState는 유사 [this.state, setState] 꼴 과 같은 pair를 return한다.
+  // * hooks는 특별한 함수이다.
   const [count, setCount] = useState(0);
   /**
    * ? count
@@ -19,8 +21,14 @@ function App() {
    * ? setState(argument)
    *    setState의 argument는 local state의 값을 초기화할 수 있다. 이러한 초기 argument는 첫번째 render시에만 사용된다.
    *    또한, 하나의 component 안에서 여러개의 state 변수를 선언할 수 있다.
-   */
-  const [age, setAge] = useState(28);
+   *    하지만, 여러개의 state 변수를 선언할 이유가 없다. 왜냐하면, 객체 및 배열형태를 모두 지원하기떄문이다.
+
+   * const [age, setAge] = useState(28);
+   * ! destructuring을 사용하지 않고, 아래와 같이 사용할 수 있다.  
+  */
+  const ageStateVariable = useState(28);
+  const age = ageStateVariable[0];
+  const setAge = ageStateVariable[1];
   const [data, setDate] = useState({ year: 2019, month: 'August', day: 29 });
   // ...
 
