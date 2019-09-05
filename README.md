@@ -12,13 +12,3 @@
 - IM13_Course_REVIEW.md : With typora, summary of codestates's contents
 
 - WIKI : MAKE A LIBRARY !
-
-
-"better-comments.tags" = [
-  {
-    "tag": "objective",
-    "color": "#2EECA8",
-    "strikethrough": false,
-    "backgroundColor": "transparent"
-  }
-]
