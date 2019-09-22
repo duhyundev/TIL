@@ -1,4 +1,4 @@
-# IM13 Course Review
+# Immersive Course Review
 
 ## Overview
 
@@ -36,7 +36,7 @@
 
 - [ ] Should think about scripting technique using closure. (e.g [currying][currying])
 
- In my words, Closure is the internal function refers to external function's varbles. Largely, I think closure has exeuction context of internal function. Closure is main point of javaScript language like scope. I am not sure, closure concept is the only feature of javaScript language. 
+ In my words, Closure is the internal function refers to external function's variables. Largely, I think closure has exeuction context of internal function. Closure is main point of javaScript language like scope. I am not sure, closure concept is the only feature of javaScript language. 
 
  So we should figure out computer language paradigm. I am really interested in this field personally. Because, it is a part of human language and machine language or this is a way of thinking with marco perspective.
 
