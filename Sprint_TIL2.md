@@ -16,3 +16,10 @@
 
 1. OOP , patterning,
 2. 주간회의
+
+190926
+
+1. supertest + single thread + beforeEach, beforeAll
+2. <Template> + event listener
+3. AJAX ,http basic review required
+
