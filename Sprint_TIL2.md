@@ -23,3 +23,8 @@
 2. <Template> + event listener
 3. AJAX ,http basic review required
 
+190927
+
+1. local browser / cross domain issue
+2. <Template> + cloning + appendChild
+3. fetching options / response instance
