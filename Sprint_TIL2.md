@@ -28,3 +28,8 @@
 1. local browser / cross domain issue
 2. <Template> + cloning + appendChild
 3. fetching options / response instance
+
+190928
+
+1. eem task / student info + automation
+2. pure javascript web / front-end framework
