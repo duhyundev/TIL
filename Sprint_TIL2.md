@@ -33,3 +33,8 @@
 
 1. eem task / student info + automation
 2. pure javascript web / front-end framework
+
+190929
+
+1. webpack bundling babel
+2. recast.ly review
