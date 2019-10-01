@@ -38,3 +38,11 @@
 
 1. webpack bundling babel
 2. recast.ly review
+
+191001
+
+--
+
+190930
+
+1. webpack uglify + 합성이벤트
