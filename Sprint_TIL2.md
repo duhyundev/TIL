@@ -39,10 +39,16 @@
 1. webpack bundling babel
 2. recast.ly review
 
-191001
+190930
 
 --
 
-190930
+191001
 
 1. webpack uglify + 합성이벤트
+
+191002
+
+1. typora + docs
+2. compile, transpile, bundling
+
