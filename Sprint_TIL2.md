@@ -52,3 +52,14 @@
 1. typora + docs
 2. compile, transpile, bundling
 
+191003
+
+1. CAP Theorem
+
+191005
+
+1. check-in flow
+2. django table join
+3. graphql resolver(nested)
+4. pre-off-session
+
