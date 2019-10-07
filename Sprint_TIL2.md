@@ -63,3 +63,7 @@
 3. graphql resolver(nested)
 4. pre-off-session
 
+191007
+
+1. python module import / path
+2. aws s3-multer issue
