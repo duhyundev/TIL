@@ -67,3 +67,7 @@
 
 1. python module import / path
 2. aws s3-multer issue
+
+191008
+
+1. debugger node --inspect // vscode debugger
