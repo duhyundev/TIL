@@ -71,3 +71,8 @@
 191008
 
 1. debugger node --inspect // vscode debugger
+
+191012
+
+1. apache airflow, personalize
+2. apollo-graphql, node scheduler, cron
