@@ -76,3 +76,7 @@
 
 1. apache airflow, personalize
 2. apollo-graphql, node scheduler, cron
+
+191014
+
+1. regExr : new RegExr('  ', gi) === /  /gi !== /'  '/gi
