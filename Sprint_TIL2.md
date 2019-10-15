@@ -80,3 +80,8 @@
 191014
 
 1. regExr : new RegExr('  ', gi) === /  /gi !== /'  '/gi
+
+191015
+
+1. node.js mode : 0o666 ( allow both read and write functionality) chmod
+2. NaN === NaN : false
