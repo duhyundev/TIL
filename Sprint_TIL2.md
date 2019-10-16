@@ -85,3 +85,8 @@
 
 1. node.js mode : 0o666 ( allow both read and write functionality) chmod
 2. NaN === NaN : false
+
+191016
+
+1. jupyter
+2. 50YearsDataScience.pdf
