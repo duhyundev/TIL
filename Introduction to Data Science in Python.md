@@ -217,6 +217,123 @@ np.linspace
 
 ## week2
 
+### Introduction[: Video]
+
+Pandas Quick learning
+
+1. stackoverflow
+2. Book (python for data analysis, learning the pandas library)
+
+planet python
+
+Data skeptic podcast: machine learning
+
+### Week 2 Lectures Jupyter Notebook[: Notebook]
+
+Cheatsheet
+
+
+
+### The Series Data Structure[: Video]
+
+The Series
+
+none type(string) / NaN type(number)
+
+NaN === NaN # false
+
+
+
+### Querying a Series[: Video]
+
+iloc loc : property not method
+
+
+
+요새 컴퓨터는 동시 computing이됨, for문은 느림
+
+벡터링을 하면 더 빠름.이를 어떻게 암? 병렬연산하는 법을 알아야해, 빨라
+
+% tab! 마법함수를 만들수 있어용
+
+Timeit
+
+
+
+javascript와 같이 dynamic type이되는듯 -> object화
+
+
+
+
+
+### The DataFrame Data Structure[: Video]
+
+Create dataframe : multi series, dictionary
+
+avoiding Chaining
+
+have a good querying
+
+
+
+droping data
+
+.drop : immutable (in place, axes) [in place-> immutable, mutable]
+
+del : mutable
+
+
+
+할당연산자 알지? Broadcasting
+
+
+
+### DataFrame indexingand Loading[: Video]
+
+pd.read_csv(filename, index_col: ? , skiprow : ?)
+
+
+
+### Querying a DataFrame[: Video]
+
+Bolean masking
+
+dropna 
+
+어떻게 빠르게 정확히 querying 할 수 있을까?
+
+
+
+### Indexing Dataframes[: Video]
+
+Set_index : mutable
+
+Reset_index
+
+
+
+multi leveling index
+
+
+
+
+
+### Missing Values[: Video]
+
+na_valuses
+
+fillna, ffill, bfill
+
+결측값은 병합이나, 여러가지 방법으로 해결가능할 수 있다. 한가지 command로 해결되는 거싱 아니다
+
+통계치를 사용할때, 결측값이 제외되고 있다는 것을 인지해라
+
+### Hacked Data[: Ungraded External Tool]
+
+
+
+
+
 ## week3
 
 ## week4
