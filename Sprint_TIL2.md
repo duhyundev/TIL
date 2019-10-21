@@ -1,4 +1,3 @@
-190919
 
 1. node-pre-gyp ?
 
@@ -90,3 +89,8 @@
 
 1. jupyter
 2. 50YearsDataScience.pdf
+
+191021
+
+1. CI/CD
+2. SSL, CloudFront, Route 53
