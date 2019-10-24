@@ -94,3 +94,7 @@
 
 1. CI/CD
 2. SSL, CloudFront, Route 53
+
+191024
+
+1. java javascript overloading (ploymoriphm)
