@@ -98,3 +98,7 @@
 191024
 
 1. java javascript overloading (ploymoriphm)
+
+191025
+
+1. flow, typescript, Reason, Kotlin, others for static-type-checking in react
