@@ -6,7 +6,33 @@
 
 ## project 시작하기
 
-- [ ] version의 의미를 알아보자. ex) ver 1.0.0
+- [x] version의 의미를 알아보자. ex) ver 1.0.0
+
+  ```javascript
+  major.minor[.build[.revision]]  (example: 1.2.12.102)
+  or
+  major.minor[.maintenance[.build]]  (example: 1.4.3.5249)
+  ```
+
+  Some schemes use a zero in the first sequence to designate [alpha](https://en.wikipedia.org/wiki/Alpha_test) or [beta](https://en.wikipedia.org/wiki/Betaware) status for releases that are not stable enough for general or practical deployment and are intended for testing or internal use only.
+
+  It can be used in the third position:
+
+  - 0 for alpha (status)
+  - 1 for beta (status)
+  - 2 for release candidate
+  - 3 for (final) release
+
+  For instance:
+
+  - 1.2.0.1 instead of 1.2-a1
+  - 1.2.1.2 instead of 1.2-b2 (beta with some bug fixes)
+  - 1.2.2.3 instead of 1.2-rc3 (release candidate)
+  - 1.2.3.0 instead of 1.2-r (commercial distribution)
+  - 1.2.3.5 instead of 1.2-r5 (commercial distribution with many bug fixes)
+
+
+
 - [ ] commit의 규칙에 대해 정리해보자
 - [ ] README.md 파일의 convention에 대해 정리해보자.
 - [ ] Issue 기반의 branch + pull request flow를 이해한다. 
