@@ -330,11 +330,123 @@ fillna, ffill, bfill
 
 ### Hacked Data[: Ungraded External Tool]
 
-
+? deprecated?
 
 
 
 ## week3
+
+### Merging Dataframes[: Video]
+
+language convention
+
+1. Full outer join (union)
+2. Inner join (intersection)
+3. Left join or right join
+
+_x,  _y
+
+pd.merge() // options
+
+
+
+### Pandas Idioms[: Video]
+
+Idiomatic Pandas :high performance and high readability
+
+vertorization	
+
+(chain indexing) ? Anti-patterning
+
+1) method chaining 
+
+```python
+# method chaining
+(df.where(df['SUMLEV']==50)
+    .dropna()
+    .set_index(['STNAME','CTYNAME'])
+    .rename(columns={'ESTIMATESBASE2010': 'Estimates Base 2010'}))
+
+# convention
+df = df[df['SUMLEV']==50]
+df.set_index(['STNAME','CTYNAME'], inplace=True)
+df.rename(columns={'ESTIMATESBASE2010': 'Estimates Base 2010'})
+```
+
+apply
+
+
+
+### Group by[: Video]
+
+Group by 
+
+Light-weighted hashing : commonly used to distribute tasks across multiple workers.
+
+(cores in a processor, nodes in a supercomputer, disks in a database)
+
+Split-apply-combline pattern
+
+aggregate : agg (callback)
+
+```python
+# using lambda
+print(df.groupby('Category').apply(lambda df,a,b: sum(df[a] * df[b]), 'Weight (oz.)', 'Quantity'))
+
+# without lambda
+def totalweight(df, w, q):
+  return sum(df[w] * df[q])
+
+print(df.groupby('Category').apply(totalweight, 'Weight (oz.)', 'Quantity'))
+```
+
+dataFrame.groupby vs Series.groupby
+
+
+
+### Scales[: Video]
+
+4 scale
+
+1. ratio scale
+2. Interval scale
+3. Ordinal scale (common in machine learning)
+4. Nominal scale
+
+astype('category', ['Low', ...], ordered=True)
+
+get dummies
+
+카테고리의 빈도화, 히스토그램 
+
+머신러닝 분류 접근법 범주형데이터
+
+Cut; 카테고리를 만드는 방법중 하나 (간격에따라)
+
+빈도에따라서, 아이템 개수에따라 등등..
+
+
+
+### Pivot Tables[: Video]
+
+Pivot_table : numeric data (agg)
+
+
+
+### Date Functionality[: Video]
+
+- Timestamp : DatetimeIndex
+- Period  : PeriodIndex
+
+asfreq
+
+Matplotlib
+
+
+
+### Goodhart's Law[: Discussion Prompt]
+
+
 
 ## week4
 
