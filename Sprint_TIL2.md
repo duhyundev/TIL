@@ -102,3 +102,8 @@
 191025
 
 1. flow, typescript, Reason, Kotlin, others for static-type-checking in react
+
+191030
+
+1. code smell (bad code)
+2. atScript
