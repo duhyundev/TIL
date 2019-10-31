@@ -107,3 +107,7 @@
 
 1. code smell (bad code)
 2. atScript
+
+191031
+
+1. vue-cli + vue-chart.js
