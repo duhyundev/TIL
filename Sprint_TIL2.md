@@ -111,3 +111,10 @@
 191031
 
 1. vue-cli + vue-chart.js
+
+191106
+
+1. session - cookie - header
+2. PG module
+3. graphQL Apollo
+4. monorepo
