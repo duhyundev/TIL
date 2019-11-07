@@ -118,3 +118,9 @@
 2. PG module
 3. graphQL Apollo
 4. monorepo
+
+191107
+
+1. how to data cleaning : should specify data i want
+2. antd with photoshop
+
