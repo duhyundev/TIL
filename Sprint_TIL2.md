@@ -124,3 +124,6 @@
 1. how to data cleaning : should specify data i want
 2. antd with photoshop
 
+191108
+
+1. credential axios/fetch cors setting
