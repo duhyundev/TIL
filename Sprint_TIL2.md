@@ -127,3 +127,8 @@
 191108
 
 1. credential axios/fetch cors setting
+
+191129
+
+1. react-native cli init
+2. TDD study
