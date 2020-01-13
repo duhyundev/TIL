@@ -11,4 +11,5 @@
 - Project_TIL : management experience in project
 - IM13_Course_REVIEW.md : With typora, summary of codestates's contents
 
-- WIKI : MAKE A LIBRARY !
+
+til is dead. should delete or improve
