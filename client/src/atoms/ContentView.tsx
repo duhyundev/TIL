@@ -6,6 +6,9 @@ import styled from 'styled-components';
 
 const ContentViewWrapper = styled.div`
   margin: 10px;
+  width: 50%;
+  border: solid 1px black;
+  padding: 10px;
 
   blockquote {
     color: #666;
