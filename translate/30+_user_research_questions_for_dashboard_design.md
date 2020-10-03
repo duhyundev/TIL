@@ -1,59 +1,3 @@
-import React from 'react';
-import ContentView from './ContentView';
-export default {
-  title: 'Atoms|ContentView',
-  component: ContentView,
-};
-
-const mock = `
-# Live demo
-
-Changes are automatically rendered as you type.
-
-## Table of Contents
-
-* Implements [GitHub Flavored Markdown](https://github.github.com/gfm/)
-* Renders actual, "native" React DOM elements
-* Allows you to escape or skip HTML (try toggling the checkboxes above)
-* If you escape or skip the HTML, no \`dangerouslySetInnerHTML\` is used! Yay!
-
-## HTML block below
-
-<blockquote>
-  This blockquote will change based on the HTML settings above.
-</blockquote>
-
-## How about some code?
-\`\`\`js
-var React = require('react');
-var Markdown = require('react-markdown');
-
-React.render(
-  <Markdown source="# Your markdown here" />,
-  document.getElementById('content')
-);
-\`\`\`
-
-Pretty neat, eh?
-
-## Tables?
-
-| Feature   | Support |
-| --------- | ------- |
-| tables    | ✔ |
-| alignment | ✔ |
-| wewt      | ✔ |
-
-## More info?
-
-Read usage information and more on [GitHub](//github.com/rexxars/react-markdown)
-
----------------
-
-A component by [Espen Hovlandsdal](https://espen.codes/)
-`;
-
-const mockTemplate = `
 # Title : 30+ user research questions for dashboard desgin
 
 ## 1. Context
@@ -200,7 +144,3 @@ cf) 적시성(timeliness : 어떤 경제적 사건에 관한 정보가 너무 �
 ## 4. Reference
 
 https://uxdesign.cc/30-user-research-questions-for-dashboard-design-5534abbfca79
-`;
-
-export const Content = () => <ContentView source={mock} />;
-export const TranslateExample = () => <ContentView source={mockTemplate} />;
