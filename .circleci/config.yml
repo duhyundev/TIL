@@ -2,6 +2,13 @@ version: 2.1
 orbs:
   node: circleci/node@3.0.0
 workflows:
-  node-tests:
+  duhyunkim_app_deploy:
     jobs:
-      - node/test
+      - deploy-stag:
+          filters:
+            branches:
+              only: master
+          docker:
+              - image: playauto/circleci-node10-awscli
+  working_directory: ~/repo
+

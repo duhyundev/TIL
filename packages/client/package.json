@@ -16,7 +16,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-markdown": "^4.3.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "^3.4.3",
     "remark-toc": "^7.0.0",
     "styled-components": "^5.1.1",
     "typescript": "^3.9.7"
@@ -26,6 +26,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "deploy": "yarn build && aws s3 sync build/ s3://duhyunkim.info --delete",
     "storybook": "start-storybook -p 9009 -s public",
     "build-storybook": "build-storybook -s public"
   },
