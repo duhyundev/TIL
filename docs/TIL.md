@@ -7,3 +7,14 @@
 
 - introduction to shell
 - basic interface in shell
+
+### 201013
+
+- shell script chaining with |
+
+### 201014
+
+- loop in shell
+- nano editor practice
+- environment variable/values with $/echo
+- argument $@/$1 ...
