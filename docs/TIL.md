@@ -18,3 +18,8 @@
 - nano editor practice
 - environment variable/values with $/echo
 - argument $@/$1 ...
+
+### 201017
+
+- zen of python listing
+- pandas/numpy/module summary
