@@ -23,3 +23,8 @@
 
 - zen of python listing
 - pandas/numpy/module summary
+
+### 201019
+
+- python scripting environment
+- Message Queue research
