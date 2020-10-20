@@ -28,3 +28,7 @@
 
 - python scripting environment
 - Message Queue research
+
+### 201020
+
+- python environment push & management
