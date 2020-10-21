@@ -32,3 +32,7 @@
 ### 201020
 
 - python environment push & management
+
+### 201021
+
+- shell command-line wget/curl manual
