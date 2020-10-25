@@ -36,3 +36,7 @@
 ### 201021
 
 - shell command-line wget/curl manual
+
+### 201025
+
+- data processing in shell/python, csvkit(csvstack/csvcut ... etc)
