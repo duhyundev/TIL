@@ -40,3 +40,7 @@
 ### 201025
 
 - data processing in shell/python, csvkit(csvstack/csvcut ... etc)
+
+### 201101
+
+- bash scripting basic (variable/array/arguments)
