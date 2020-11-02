@@ -44,3 +44,7 @@
 ### 201101
 
 - bash scripting basic (variable/array/arguments)
+
+### 201102
+
+- bash scripting basic (conditional/loop/case)
