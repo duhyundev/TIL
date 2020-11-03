@@ -48,3 +48,9 @@
 ### 201102
 
 - bash scripting basic (conditional/loop/case)
+
+### 201103
+
+- bash scripting basic (function)
+- bash job scheduling with bash.sh
+- pytest introduction
