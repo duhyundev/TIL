@@ -54,3 +54,8 @@
 - bash scripting basic (function)
 - bash job scheduling with bash.sh
 - pytest introduction
+
+### 201108
+
+- pytest test coverage with boundary value
+- pytest context manager usage
