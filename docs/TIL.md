@@ -59,3 +59,11 @@
 
 - pytest test coverage with boundary value
 - pytest context manager usage
+
+### 201117
+
+- pytest test file scaffording
+- test with :: keyword expression
+- expect result/fail,skip or etc.. with decorator @
+- travis badge coverage
+- teardown/setup/fixture fixture has decorator @
