@@ -67,3 +67,9 @@
 - expect result/fail,skip or etc.. with decorator @
 - travis badge coverage
 - teardown/setup/fixture fixture has decorator @
+
+### 201118
+
+- mocking concept/usage
+- test model : do not leave models untested just because they are complex
+- testing plot/matplotlib 
