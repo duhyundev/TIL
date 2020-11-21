@@ -72,4 +72,13 @@
 
 - mocking concept/usage
 - test model : do not leave models untested just because they are complex
-- testing plot/matplotlib 
+- testing plot/matplotlib
+
+### 201121
+
+- oop / procedural programming
+- object = state + behavior
+- encapsulation : bundling data with code operating on it
+- stae = attribute / behavior = methods
+- classmethod decorator
+- inheritance
