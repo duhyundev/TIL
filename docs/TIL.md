@@ -82,3 +82,14 @@
 - stae = attribute / behavior = methods
 - classmethod decorator
 - inheritance
+
+### 201122
+
+- overloading __eq__()
+- __str__ vs __repr__
+- exceptions
+- inheritance & polymorphism
+- Liskov substition principle
+- private method , @property , overriding
+- naming convention with underline
+- getter/setter
