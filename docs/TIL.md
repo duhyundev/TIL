@@ -93,3 +93,14 @@
 - private method , @property , overriding
 - naming convention with underline
 - getter/setter
+
+### 201123
+
+- data-engineering is : taking any action involving data and turning it into a reliable, repeatable, maintainable process
+- DAGs : Directed Acyclic Graphs
+- airflow shell 
+- airflow ui basic
+- airflow operator / BashOperator 
+- airflow task concept : Instance of operators
+- upstream/downstream with bitoperator (>>, <<)
+- pythonOperator/EmailOperator
