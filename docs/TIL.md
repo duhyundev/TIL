@@ -104,3 +104,8 @@
 - airflow task concept : Instance of operators
 - upstream/downstream with bitoperator (>>, <<)
 - pythonOperator/EmailOperator
+
+### 201128
+
+- airflow-scheduling like corn/@daily, etc
+- airflow-sensor / executor(sequentialExecutor, localExecutor, celeryExecutor
