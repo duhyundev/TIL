@@ -21,7 +21,4 @@ you’ll continue your work on Sparkify’s data infrastructure by creating and 
 skill : Apache Airflow
 
 ## project 5 - Data Engineering Capstone
-you'll define the scope of the project and the data you'll be working with.
-
-# prerequisites
-## 
+you'll define the scope of the project and the data you'll be working with. 
