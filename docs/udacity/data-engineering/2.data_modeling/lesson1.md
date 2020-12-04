@@ -107,5 +107,77 @@ RDBMS (Relation DataBase Management System)
 - Uses and builds on SQL language
 
 # 11. Demos: Creating a Postgres Table
-# 12. Exercise
+# 12. Exercise 1: Creating a Table with Postgres
 refer_path : ./L1_Exercise_1_Creating_a_Table_with_Postgres.ipynb
+
+# 13. Solution for Exercise 1: Create a Table with Postgres
+null
+
+# 14. NoSQL Databases
+## What is a NoSql Database
+"...has a simpler design, simpler horizontal scaling, and finer control of availabilty. Data structures used are different than those in Relational Database are make some operations faster."
+
+## Common Types of NoSQL Databases
+### Apache Cassandra (Partition Row store)
+ The data is distributed by partitions across nodes or servers, and the data is organized in the columns and rows format.
+
+### MongoDB (Documnet store)
+ One of the defining characteristics of a document-oriented database is that in addition to the Key Lookups performed by key-value store, the database also offers an API or query language that retrieves document based on its contents.
+
+### DynamoDB (Key-Value store)
+ A Key-value store is basically the data is represented as a collection of key and value pairs.
+
+### Apache HBase (Wide Column Store)
+ It also uses tables, rows, and columns, but unlike a relational database, the names and format of the columns can vary form row to row in the same table. (flexible Schema)
+
+### Neo4J (Graph Database)
+ Neo4J is a Graph Database where relationships between entities is more the focus. With graph databases, it's all about relationships, and the data is represented as nodes and edges.
+
+## Type of NoSQL Database
+In this course, we will use Apache Cassandra to explain the concepts of data modeling for NoSQL Databases.
+
+### The Basics of Apache Cassandra
+
+#### General
+- Keysapce
+  - Collection of Tables
+- Table
+  - A group of partitions
+- Rows
+  - A single item
+
+#### Specific Apache Cassandra
+- Partition
+  - Fundamental unit of access
+  - Collection of row(s)
+  - How data is distributed 
+- Primary Key
+  - Primary Key is made up of a partition key and clustering columns
+- Columns
+  - Clustering and Data
+  - Labeled element
+
+# 15. What is Apache Cassandra
+"...__provides scalability__ and __high availability__ without compromising performance. Linear Scalability and proven __falut-tolerance__ ond commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data."
+
+- Apache Cassandra uses its own query language CQL.
+
+## What type of companies use Apache Cassandra?
+ All kinds of companies. For example, Uber uses Apache Cassandra for their entire backend. Netflix uses Apache Cassandra to serve all their videos to customers. Good use cases for NoSQL (and more specifically Apache Cassandra) are :
+
+- Transaction logging (retail, health care)
+- Internet of Things (IoT)
+- Time series data
+- Any workload that is heavy on writes to the database (since Apache Cassandra is optimized for writes).
+
+# 16. When to Use a NoSql Database
+- Large amounts of data
+- Need horizontal scalability
+- Need high throughput -- fast reads
+- Need a flexible schema
+- Need high availability
+- Need to be able to store different data type formats
+- Users are distributed --low latency
+
+NoSql was built to handle the limitations that exist in relational databases.
+
