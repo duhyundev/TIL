@@ -111,7 +111,6 @@ RDBMS (Relation DataBase Management System)
 refer_path : ./L1_Exercise_1_Creating_a_Table_with_Postgres.ipynb
 
 # 13. Solution for Exercise 1: Create a Table with Postgres
-null
 
 # 14. NoSQL Databases
 ## What is a NoSql Database
@@ -181,3 +180,24 @@ In this course, we will use Apache Cassandra to explain the concepts of data mod
 
 NoSql was built to handle the limitations that exist in relational databases.
 
+# 17. When Not to Use a NoSql Database
+- Need ACID Transactions
+- Need ability to do JOINS
+- Ability to do aggregations and analytics
+- Having changing business requirements
+- Queries are not availiable and need to have flexibility
+- Have a small datasaet
+
+## Remember
+NoSql databases and Relational databases do __not replace__ each other for all tasks.
+
+Both do different tasks extremely well, and should be utilized for the use cases they fit best.
+
+## Caveats to NoSQL and ACID Transactions
+ There are some NoSQL databases that offer some form of ACID transaction. As of v4.0, MongoDB added multi-document ACID transactions within a single replica set. With their later version, v4.2, they have added multi-document ACID transactions in a sharded/partitioned deployment.
+
+# 18. Demo 2: Creating table with Cassandra
+
+# 19. Exercise 2: Create table with Cassandra
+refer_path : ./L1_Exercise_1_Creating_a_Table_with_Postgres.ipynb
+# 20. Solution for Exercise 2: Create table with Cassandra
