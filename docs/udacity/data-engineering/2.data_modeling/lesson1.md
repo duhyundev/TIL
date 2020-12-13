@@ -199,5 +199,14 @@ Both do different tasks extremely well, and should be utilized for the use cases
 # 18. Demo 2: Creating table with Cassandra
 
 # 19. Exercise 2: Create table with Cassandra
-refer_path : ./L1_Exercise_1_Creating_a_Table_with_Postgres.ipynb
+refer_path : ./L1_Exercise_2_Creating_a_Table_with_Apache_Cassandra
 # 20. Solution for Exercise 2: Create table with Cassandra
+
+# 21. Conclusion
+## Wrap Up
+- What is Data Modeling?
+- Who Does Data Modeling?
+- When to and not to use Relational Databases
+- When to and not to use NoSQL databases
+- How to create a simple table in PostgreSQL
+- How to create a simple table in Apache Cassandra
