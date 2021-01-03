@@ -89,3 +89,22 @@ refer_path : ./L2_Exercise_1_Creating_Normalized_Tables.ipynb
 # 11. Solution: Exercise 1: Creating Normalized Tables
 
 # 12. Denormalization
+## Denormalization
+The process of trying to improve the read performance of a database at the expense of losing some wirte performance by adding redundant copies of data.
+
+### Logical Design Change
+1. The Designer is incharge of keeping data consistent
+2. Reads will be faster (select)
+3. Writes will be slower (insert, update, delete)
+
+# 13. Demo 2: Createing Denormalized Tables
+
+# 14. Denormalization Vs. Normalization
+
+## Normalization
+Normalization is about trying to increase data integrity by reducing the number of copies of the data. Data that needs to be added or updated will be done in as few places as possible.
+
+## Denormalization
+Denormalization is trying to increase performance by reducing the number of joins between tables (as joins can be slow). Data integrity will take a bit of a potential hit, as there will be more copies of the data (to reduce JOINS).
+
+# 15. Exercise 2: Creating Denormalized Tables
