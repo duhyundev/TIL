@@ -108,3 +108,23 @@ Normalization is about trying to increase data integrity by reducing the number 
 Denormalization is trying to increase performance by reducing the number of joins between tables (as joins can be slow). Data integrity will take a bit of a potential hit, as there will be more copies of the data (to reduce JOINS).
 
 # 15. Exercise 2: Creating Denormalized Tables
+refer_path : ./L2_Exercise_2_Creating_Denormalized_Tables.ipynb
+
+# 16. Solution: Exercise 2: Creating Denormalized Tables
+
+# 17. Fact and Dimension Tables
+## Fact and Dimension Tables
+- Work together to create an organized data model
+- While fact and dimension are not created differently in the DDL, they are conceptual and extremely important for organization.
+
+### Fact Tables
+Fact table consists of the measurements, metrics or facts of a business process.
+
+### Dimension
+A structure that categorizes facts and measures in order to enable users to answer business questions. Dimensions are people, products, place and time.
+
+### Implementing Different Schemas
+Two of the most popular (because of their simplicity) data mart schema for data warehouses are:
+  1. Star Schema
+  2. Snowflake Schema
+
