@@ -128,3 +128,8 @@ Two of the most popular (because of their simplicity) data mart schema for data 
   1. Star Schema
   2. Snowflake Schema
 
+# 18. Star Schemas
+
+# 19. Benefits of Star Schemas
+
+# 20. Snowflake Schemas
