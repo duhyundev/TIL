@@ -129,7 +129,42 @@ Two of the most popular (because of their simplicity) data mart schema for data 
   2. Snowflake Schema
 
 # 18. Star Schemas
+Star Schema is the simplest style of data mart schema. The star schema consists of one of more face tables referencing any number of dimension tables.
+
+Why "star" schema ?
+- Gets its name from the physical model resembling a star shape
+- A fact table is at its center
+- Dimension table surrounds the fact table representing the star't points
 
 # 19. Benefits of Star Schemas
+Benefits
+- Denormalized
+- simplifies queries
+- Fast aggregations
+
+Drawbacks
+- Issues that come with denormalization
+- Data Integrity
+- Decrease query flexibility
+- Many to many relationship -- simplifed
+
 
 # 20. Snowflake Schemas
+Logical arrangement of tables in a multidimensional database represented by centralized fact tables which are connected to multiple dimensions.
+
+Why "snowflake" schema ?
+A Complex snowflake shape emerges when the dimensions of a snowflake schema are elaborated, having muplitple levels of relationships, child tables having multiple parents
+
+Snowflake vs Star
+- Star Schema is a special, simplified case of the snowflake schema.
+- Star Schema does not allow for one to many relationships while the snowflake schema does.
+- Snowflake schema is more normalized than Star schema but only in 1NF or 2NF
+
+https://medium.com/@BluePi_In/deep-diving-in-the-world-of-data-warehousing-78c0d52f49a
+
+# 21. Demo 3: Creating Fact and Dimension Tables with Star Schema
+
+# 22. Exercise 3: Creating Fact and Dimension Tables with Star Schema
+refer_path : ./L2_Exercise_3_Creating_Fact_and_Dimension_Tables_with_Star_Schema.ipynb
+
+# 23. Solution: Exercise 3: Creating Fact and Dimension Tables with Star Schema
